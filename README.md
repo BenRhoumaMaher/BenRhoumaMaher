@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://mcoding.000webhostapp.com/](https://mcoding.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://m-code.netlify.app/](https://m-code.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML&CSS, Bootstrap**
 
 - 📫 How to reach me **maherbenrhoumaa@gmail.com**
 
-- 📄 Know about my experiences [https://mcoding.000webhostapp.com/](https://mcoding.000webhostapp.com/)
+- 📄 Know about my experiences [https://m-code.netlify.app/](https://m-code.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
