@@ -1,19 +1,19 @@
 <img align="center" alt="coding" width="850" src="http://propulsive.in/assets/img/service-icon/web.gif" >
 <h1 align="center">Hi 👋, I'm Maher Ben Rhouma</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhoumamaher&label=Profile%20views&color=0e75b6&style=flat" alt="benrhoumamaher" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher" alt="benrhoumamaher" /></a> </p>
 
-- 🔭 I’m currently working on **M&CODE-FOOD**
+- 🔭 I’m currently working on **New PHP PROJECT**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://m-code.netlify.app/](https://m-code.netlify.app/)
 
-- 💬 Ask me about **JavaScript, HTML&CSS, Bootstrap**
+- 💬 Ask me about **PHP, JavaScript, HTML&CSS, Bootstrap, Wordpress**
 
 - 📫 How to reach me **maherbenrhoumaa@gmail.com**
 
