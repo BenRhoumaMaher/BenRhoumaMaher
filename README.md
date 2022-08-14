@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="800" src="http://propulsive.in/assets/img/service-icon/web.gif" >
+<img align="center" alt="coding" width="900" src="http://propulsive.in/assets/img/service-icon/web.gif" >
 <h1 align="center">Hi 👋, I'm Maher Ben Rhouma</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
