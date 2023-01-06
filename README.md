@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **New PHP PROJECT**
 
-- 🌱 I’m currently learning **Symfony 6**
+- 🌱 I’m currently learning **Symfony 5**
 
 - 👨‍💻 All of my projects are available at [https://mcode-profil.netlify.app/](https://mcode-profil.netlify.app/)
 
