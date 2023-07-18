@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mcode-profil.netlify.app/](https://mcode-profil.netlify.app/)
 
-- 💬 Ask me about **PHP, JavaScript, HTML&CSS, Bootstrap, Wordpress, jQuery**
+- 💬 Ask me about **Symfony, PHP, JavaScript, HTML&CSS, Bootstrap, Wordpress, jQuery**
 
 - 📫 How to reach me **maherbenrhoumaa@gmail.com**
 
