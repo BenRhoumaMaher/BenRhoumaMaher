@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher" alt="benrhoumamaher" /></a> </p>
 
-- 🔭 I’m currently working on **New PHP PROJECT**
+- 🔭 I’m currently working on **New PHP/Symfony/React PROJECT**
 
 - 🌱 I’m currently learning **React**
 
