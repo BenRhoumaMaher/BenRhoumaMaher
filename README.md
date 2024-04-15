@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher" alt="benrhoumamaher" /></a> </p>
 
-- 🔭 I’m currently working on **New PHP/Symfony/Laravel PROJECT**
+- 🔭 I’m currently working on **New PHP/Symfony PROJECT**
 
 - 🌱 I’m currently learning **New things**
 
 - 👨‍💻 All of my projects are available at [https://mcode-profil.netlify.app/](https://mcode-profil.netlify.app/)
 
-- 💬 Ask me about **Symfony, PHP, Laravel, JavaScript, HTML&CSS, Bootstrap, Wordpress, jQuery**
+- 💬 Ask me about **Symfony, PHP, Laravel, Angular, JavaScript, HTML&CSS, Bootstrap, Wordpress, jQuery**
 
 - 📫 How to reach me **maherbenrhoumaaa@gmail.com**
 
