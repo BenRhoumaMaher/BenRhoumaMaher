@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **maherbenrhoumaaa@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/maherbenrhouma/](linkedin.com/in/maherbenrhouma/)
+- 📄 Know about my experiences **linkedin.com/in/maherbenrhouma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maher-ben-rhouma-sfc%e2%84%a2-ssyb%e2%84%a2-17b42520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maher-ben-rhouma-sfc%e2%84%a2-ssyb%e2%84%a2-17b42520a/" height="30" width="40" /></a>
-<a href="https://instagram.com/m_c_o_d_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_c_o_d_e" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maher-ben-rhouma-sfc%e2%84%a2-ssyb%e2%84%a2-17b42520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maherbenrhouma" height="30" width="40" /></a>
+<a href="[https://instagram.com/m_c_o_d_e](https://www.instagram.com/benrhoumaamaher/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_c_o_d_e" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
