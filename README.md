@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **maherbenrhoumaaa@gmail.com**
 
-- 📄 Know about my experiences **linkedin.com/in/maherbenrhouma**
+- 📄 Know about my experiences [https://linkedin.com/in/https://www.linkedin.com/in/maher-ben-rhouma-sfc%e2%84%a2-ssyb%e2%84%a2-17b42520a/](https://www.linkedin.com/in/maherbenrhouma/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
