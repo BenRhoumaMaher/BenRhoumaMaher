@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **maherbenrhoumaaa@gmail.com**
 
-- 📄 Know about my experiences 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank">Mylinkedin</a>🔹
+- 📄 Know about my experiences 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">Mylinkedin</a>🔹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
