@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="850" src="http://propulsive.in/assets/img/service-icon/web.gif" >
 <h1 align="center">Hi 👋, I'm Maher Ben Rhouma</h1>
 <h3 align="center">A Passionate Symfony Developer from Tunisia</h3>
-<img alt="coding" width="1500" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/85edf020dad3fa2fa90c63753a8e4313.gif" >
+<img alt="coding" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhoumamaher&label=Profile%20views&color=0e75b6&style=flat" alt="benrhoumamaher" /> </p>
 
