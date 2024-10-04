@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maher Ben Rhouma</h1>
 <h3 align="center">A Passionate Symfony Developer from Tunisia</h3>
 <div style="display: flex; justify-content: center;">
-<img alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img alt="coding" width="500" src="https://dribbble.com/shots/5568384-Programmer-at-Work-Animation/attachments/10938871?mode=media" >
 </div>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhoumamaher&label=Profile%20views&color=0e75b6&style=flat" alt="benrhoumamaher" /> </p>
