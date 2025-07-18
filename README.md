@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on **New Symfony/ReactJs PROJECT**
 
+- - 📄 Know more about me 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">My Website</a>🔹
+
 - 🌱 I’m currently learning **New things**
 
-- 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS**
+- 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
 
 - 📫 How to reach me **maherbenrhoumaa@gmail.com**
 
-- 📄 Know about my experiences 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">Mylinkedin</a>🔹
+- 📄 Know about my experiences 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">My linkedin</a>🔹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
