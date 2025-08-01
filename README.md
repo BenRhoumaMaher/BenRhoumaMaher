@@ -11,8 +11,6 @@
 
 - 🌐 Pour en savoir plus sur moi 🔹<a href="https://maher-ben-rhouma.vise.page/" target="_blank" rel="noopener noreferrer">Mon Site Web</a>🔹
 
-- 👨‍💻 Découvrez mon parcours sur LeetCode 🔹<a href="https://leetcode.com/u/maherbenrhouma" target="_blank" rel="noopener noreferrer">Mon LeetCode</a>🔹
-
 - 🌱 J'apprends actuellement **de nouvelles choses**
 
 - 💬 Posez-moi vos questions sur **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
