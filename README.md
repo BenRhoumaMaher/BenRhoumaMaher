@@ -13,7 +13,7 @@
 
 - 💬 Posez-moi vos questions sur **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
 
-- 📫 Pour me contacter : **maherbenrhoumaa@gmail.com**
+- 📫 Pour me contacter : **maherbenrhoumaaa@gmail.com**
 
 - 📄 Découvrez mon parcours professionnel 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">Mon LinkedIn</a>🔹
 
