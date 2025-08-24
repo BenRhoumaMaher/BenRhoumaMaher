@@ -9,8 +9,6 @@
 
 - 🔭 Je travaille actuellement sur un **nouveau projet Symfony/ReactJs**
 
-- 🌐 Pour en savoir plus sur moi 🔹<a href="https://maher-ben-rhouma.vise.page/" target="_blank" rel="noopener noreferrer">Mon Site Web</a>🔹
-
 - 🌱 J'apprends actuellement **de nouvelles choses**
 
 - 💬 Posez-moi vos questions sur **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
