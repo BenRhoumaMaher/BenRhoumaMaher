@@ -13,8 +13,6 @@
 
 - 👨‍💻 Check Out🔹<a href="https://maherbnrportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a>🔹 
 
-- ⚙️ I solve one [LeetCode](https://leetcode.com/u/CnIhtYlBjd/) problem every day
-
 - 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
 
 - 📫 How to reach me: **maherbenrhoumaaa@gmail.com**
