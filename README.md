@@ -23,12 +23,6 @@ const maher = {
 };
 ```
 
-- 🔭 I'm currently working on **a new Symfony/ReactJs project**
-- 🌱 I'm currently learning **new things**
-- 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
-- 📫 How to reach me: **maherbenrhoumaaa@gmail.com**
-- 📄 Know about my professional background on [**LinkedIn**](https://www.linkedin.com/in/maherbenrhouma/)
-
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
