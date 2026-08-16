@@ -23,6 +23,12 @@ const maher = {
 };
 ```
 
+- 🔭 I'm currently working on **a new Symfony/ReactJs project**
+- 🌱 I'm currently learning **new things**
+- 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
+- 📫 How to reach me: **maherbenrhoumaaa@gmail.com**
+- 📄 Know about my professional background on [**LinkedIn**](https://www.linkedin.com/in/maherbenrhouma/)
+
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
@@ -107,13 +113,9 @@ $ git log --author="maher" --oneline --shortstat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=benrhoumamaher&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&ring_color=6366f1" alt="benrhoumamaher stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benrhoumamaher&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="benrhoumamaher top langs"/>
-
 <img src="https://streak-stats.demolab.com?user=benrhoumamaher&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher&theme=tokyonight&no-bg=true&margin-w=8" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=benrhoumamaher&theme=tokyonight&no-bg=true&margin-w=8" alt="trophies"/>
 
 </div>
 
