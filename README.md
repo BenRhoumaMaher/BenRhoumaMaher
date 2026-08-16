@@ -1,35 +1,145 @@
-<img align="center" alt="coding" width="850" src="http://propulsive.in/assets/img/service-icon/web.gif" >
-<h1 align="center">Hi 👋, I'm Maher Ben Rhouma</h1>
-<h3 align="center">A Passionate Symfony Developer from Tunisia</h3>
-<img alt="coding" width="500" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" >
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhoumamaher&label=Profile%20views&color=0e75b6&style=flat" alt="benrhoumamaher" /> </p>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher" alt="benrhoumamaher" /></a> </p>
+# Maher Ben Rhouma
 
-- 🔭 I’m currently working on **a new Symfony/ReactJs project**
+#### `Symfony Developer` · `PHP` · `WordPress`
 
-- 🌱 I’m currently learning **new things**
+<img src="https://img.shields.io/badge/-Passionate%20Symfony%20developer%20from%20Tunisia-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
-- 👨‍💻 Check Out🔹<a href="https://maherbnrportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a>🔹 
+</div>
 
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
+
+```ts
+const maher = {
+  role:      "Symfony Developer",
+  location:  "🇹🇳 Tunisia",
+  focus:     ["Symfony", "PHP", "ReactJs", "API Platform"],
+  loves:     ["Docker", "ElasticSearch", "Clean architecture"],
+  currently: "Working on a new Symfony/ReactJs project",
+  learning:  "New things, every day 🌱",
+};
+```
+
+- 🔭 I'm currently working on **a new Symfony/ReactJs project**
+- 🌱 I'm currently learning **new things**
 - 💬 Ask me about **Symfony, PHP, Docker, ReactJs, ElasticSearch, Javascript, HTML, CSS, Git**
-
 - 📫 How to reach me: **maherbenrhoumaaa@gmail.com**
+- 📄 Know about my professional background on [**LinkedIn**](https://www.linkedin.com/in/maherbenrhouma/)
 
-- 📄 Know about my professional background 🔹<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank" rel="noopener noreferrer">My LinkedIn</a>🔹
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-<h3 align="left">Find me on:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maherbenrhouma/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maherbenrhouma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/benrhoumaamaher/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_c_o_d_e" height="30" width="40" /></a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frameworks</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" height="28"/>
+      <img src="https://img.shields.io/badge/Twig-B41717?style=flat-square&logo=twig&logoColor=white" alt="Twig" height="28"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,wordpress,drupal&theme=dark" alt="frameworks"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark" alt="devops"/></a>
+      <img src="https://img.shields.io/badge/Lando-FF6B6B?style=flat-square&logoColor=white" alt="Lando" height="28"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" height="28"/>
+      <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK Stack" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>APIs</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST" height="28"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28"/>
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend Tools</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="bootstrap"/></a>
+      <img src="https://img.shields.io/badge/Beaver%20Builder-2F4A87?style=flat-square&logoColor=white" alt="Beaver Builder" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Other</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" height="28"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" height="28"/>
+      <img src="https://img.shields.io/badge/Scrum%2FAgile-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="Scrum/Agile" height="28"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br clear="all"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benrhoumamaher&show_icons=true&locale=en&layout=compact" alt="benrhoumamaher" /></p>
+<!-- ====================== PROJECTS ====================== -->
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benrhoumamaher&show_icons=true&locale=en" alt="benrhoumamaher" /></p>
+```bash
+$ git log --author="maher" --oneline --shortstat
+★  portfolio                     personal developer portfolio
+★  symfony_ecommerce             e-commerce platform built with Symfony
+★  symfony-api-platform          REST APIs with Symfony API Platform
+★  blog_symfony_react            blog app with a Symfony backend & React frontend
+★  symfony_stripe                Stripe payment integration in Symfony
+★  ms-learning                   learning notes & practice project
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benrhoumamaher&" alt="benrhoumamaher" /></p>
+<div align="center">
+
+[`portfolio`](https://github.com/BenRhoumaMaher/portfolio) · [`symfony_ecommerce`](https://github.com/BenRhoumaMaher/symfony_ecommerce) · [`symfony-api-platform`](https://github.com/BenRhoumaMaher/symfony-api-platform) · [`blog_symfony_react`](https://github.com/BenRhoumaMaher/blog_symfony_react) · [`symfony_stripe`](https://github.com/BenRhoumaMaher/symfony_stripe) · [`ms-learning`](https://github.com/BenRhoumaMaher/ms-learning)
+
+</div>
+
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=benrhoumamaher&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&ring_color=6366f1" alt="benrhoumamaher stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benrhoumamaher&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="benrhoumamaher top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=benrhoumamaher&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=benrhoumamaher&theme=tokyonight&no-bg=true&margin-w=8" alt="trophies"/>
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Let's Connect
+
+```bash
+$ echo "Let's build something great together 🚀"
+$ whoami
+> BenRhoumaMaher · open to collaborations & Symfony/PHP projects
+```
+
+<div align="center">
+
+If you like my work, consider following and dropping a ⭐ on the projects you find useful!
+
+<a href="https://www.linkedin.com/in/maherbenrhouma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://maherbnrportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=6366f1" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/benrhoumaamaher/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+
+</div>
